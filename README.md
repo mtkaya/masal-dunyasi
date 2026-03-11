@@ -1,4 +1,4 @@
-# 🌙 Masal Dünyası - AI Bedtime Story App
+# Masal Dünyası - AI Bedtime Story App
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 Hakkında
+## Hakkında
 
 **Masal Dünyası**, çocuklarınızın adını ve tercihlerini kullanarak benzersiz, kişiselleştirilmiş uyku masalları oluşturan bir yapay zeka uygulamasıdır. Her gece farklı bir macera, her hikaye özel ve unutulmaz!
 
@@ -29,15 +29,15 @@
 
 ---
 
-## 🎯 Özellikler
+## Özellikler
 
-### 📝 Hikaye Oluşturma
+### Hikaye Oluşturma
 - **Tema Seçimi**: 🏰 Şato, 🚀 Uzay, 🌳 Orman, 🐠 Deniz, ☁️ Bulut, ⭐ Yıldız
 - **Süre Ayarı**: 2, 3 veya 5 dakikalık hikayeler
 - **Ton Seçimi**: 😌 Sakin, 😄 Komik, 🚀 Macera
 - **Kelime Kontrolü**: Hikayede olmasını istediğiniz/istemediğiniz kelimeler
 
-### 🎙️ Hikaye Anlatıcıları
+### ️ Hikaye Anlatıcıları
 | Emoji | Anlatıcı | Stil |
 |-------|----------|------|
 | 👵 | Nine | Sıcak, sevecen |
@@ -49,14 +49,14 @@
 | 🦉 | Baykuş | Gizemli, akıllı |
 | 🌟 | Yıldız | Işıltılı, hayal dolu |
 
-### 📚 Kütüphane
+### Kütüphane
 - Tüm hikayelerinizi saklayın
 - Favorilerinizi işaretleyin
 - Dinleme geçmişinizi takip edin
 
 ---
 
-## 🚀 Kurulum
+## Kurulum
 
 ### Gereksinimler
 - Node.js 18+
@@ -82,7 +82,7 @@ Tarayıcınızda `http://localhost:5173` adresini açın.
 
 ---
 
-## 📱 Mobil Uygulama
+## Mobil Uygulama
 
 Capacitor ile iOS ve Android için native uygulama oluşturabilirsiniz:
 
@@ -104,7 +104,7 @@ npx cap open android
 
 ---
 
-## 🛠️ Teknolojiler
+## ️ Teknolojiler
 
 | Kategori | Teknoloji |
 |----------|-----------|
@@ -119,7 +119,7 @@ npx cap open android
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 src/
@@ -154,7 +154,7 @@ VITE_ELEVENLABS_API_KEY=your_elevenlabs_api_key
 
 ---
 
-## 🤝 Katkıda Bulunma
+## Katkıda Bulunma
 
 1. Bu repoyu fork edin
 2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
@@ -164,13 +164,13 @@ VITE_ELEVENLABS_API_KEY=your_elevenlabs_api_key
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ---
 
-## 👨‍💻 Geliştirici
+## ‍ Geliştirici
 
 **Tuğrul Kaya**
 
